@@ -1,0 +1,6 @@
+{
+  "_comment": "This repo uses TWO separate Vercel projects — do not deploy from the root.",
+  "_frontend": "Create a Vercel project with Root Directory = frontend/",
+  "_backend": "Create a Vercel project with Root Directory = backend/ (has its own vercel.json)",
+  "_docs": "See README.md for full deployment instructions"
+}
